@@ -1,0 +1,11 @@
+node_modules
+.env
+.DS_Store
+/package-lock.json
+.prettierrc
+.eslintrc
+.eslintignore
+package-lock.json
+./package-lock.json
+request.rest
+**/.DS_Store
